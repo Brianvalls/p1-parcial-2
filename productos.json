@@ -1,10 +1,83 @@
 [
     {
         "id": 1,
-        "nombre": "Producto",
-        "descripcion": "Descripción del producto",
-        "precio": 0,
-        "imagen": "images/producto-de-ejemplo.jpg",
-        "categoría": "Nombre de la categoría"
+        "nombre": "Blue-Eyes White Dragon",
+        "descripcion": "El legendario dragón blanco de ojos azules, una de las cartas más poderosas y emblemáticas del juego.",
+        "precio": 15000,
+        "imagen": "images/blue-eyes.png",
+        "categoria": "Dragón",
+        "stock": 3
+    },
+    {
+        "id": 2,
+        "nombre": "Dark Magician",
+        "descripcion": "El mago definitivo en términos de ataque y defensa. Carta icónica de Yugi Muto.",
+        "precio": 12000,
+        "imagen": "images/dark-magician.png",
+        "categoria": "Hechicero",
+        "stock": 5
+    },
+    {
+        "id": 3,
+        "nombre": "Red-Eyes Black Dragon",
+        "descripcion": "Un dragón con un poder increíble, rival del Blue-Eyes y carta insignia de Joey.",
+        "precio": 11000,
+        "imagen": "images/red-eyes.png",
+        "categoria": "Dragón",
+        "stock": 4
+    },
+    {
+        "id": 4,
+        "nombre": "Exodia the Forbidden",
+        "descripcion": "La carta prohibida. Si reúnes todas las piezas de Exodia, ganas el duelo automáticamente.",
+        "precio": 25000,
+        "imagen": "images/exodia.png",
+        "categoria": "Hechicero",
+        "stock": 1
+    },
+    {
+        "id": 5,
+        "nombre": "The Winged Dragon of Ra",
+        "descripcion": "Una de las tres cartas de Dios egipcio, con poderes devastadores.",
+        "precio": 20000,
+        "imagen": "images/ra.png",
+        "categoria": "Dios Egipcio",
+        "stock": 2
+    },
+    {
+        "id": 6,
+        "nombre": "Slifer the Sky Dragon",
+        "descripcion": "Dios egipcio con dos bocas y poder que aumenta según las cartas en tu mano.",
+        "precio": 20000,
+        "imagen": "images/slifer.png",
+        "categoria": "Dios Egipcio",
+        "stock": 2
+    },
+    {
+        "id": 7,
+        "nombre": "Black Luster Soldier",
+        "descripcion": "Un guerrero legendario invocado mediante ritual, con gran poder de ataque.",
+        "precio": 13000,
+        "imagen": "images/black-luster.png",
+        "categoria": "Guerrero",
+        "stock": 3
+    },
+    {
+        "id": 8,
+        "nombre": "Obelisk the Tormentor",
+        "descripcion": "Dios egipcio de fuerza bruta, capaz de destruir a todos los monstruos del oponente.",
+        "precio": 20000,
+        "imagen": "images/obelisk.png",
+        "categoria": "Dios Egipcio",
+        "stock": 2
+    },
+    {
+        "id": 9,
+        "nombre": "Winged Kuriboh",
+        "descripcion": "Un pequeño monstruo con alas, famoso por su habilidad de proteger al jugador.",
+        "precio": 5000,
+        "imagen": "images/winged-kuriboh.png",
+        "categoria": "Hada",
+        "stock": 10
     }
 ]
